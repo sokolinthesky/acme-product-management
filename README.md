@@ -1,5 +1,7 @@
 # APM
 
+<img src="https://s8.hostingkartinok.com/uploads/images/2018/06/35c1377bfd042e7ec76c723724b9320e.png"/>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
 ## Development server
